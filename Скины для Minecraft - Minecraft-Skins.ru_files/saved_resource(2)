@@ -1,0 +1,9 @@
+__lxG195409__439615990.parser([{
+    id:"580833",
+    type:"js",
+    div_name:"lx_580833",
+    isTablet:0,
+source:' <ins class="adsbygoogle adslot_580833" data-ad-client="ca-pub-3104790387792468" data-ad-slot="3389601373" data-color-border="#DBE5EC" data-color-link="#54CA99" data-color-bg="#DBE5EC" data-color-text="#9eaab2" data-color-url="#9eaab2" style="display:inline-block;width: 300px; height: 250px;" data-ad-type="text,image"> </ins> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>'
+, counters: ['https://luxcdn.com/npm_show/?area_id=580833&sds_id=53276&ubckp=0&retarget_adv_net_id=0&psds_id=0&pfloor=0.000000&first=1&dcpm_type=0&order_id=1&adserver=0&rotator_id=0']
+},{type: 'counters', urls: ['http://cm.g.doubleclick.net/pixel?google_nid=albs&google_cm&psid=6390371893031042785&google_hm=NjM5MDM3MTg5MzAzMTA0Mjc4NQ', 'http://track.recreativ.ru/mtch.php?nid=6&psid=6390371893031042785', 'http://ad.dumedia.ru/uid/sync?sspId=4&id=6390371893031042785', 'http://ssp.adriver.ru/cgi-bin/sync.cgi?ssp_id=28&external_id=6390371893031042785', 'http://sync.madnet.ru/image?source=adlabs&return_url=http%3A%2F%2Fstat.adlabs.ru%2Fmerge_gpsid%2F%3Fsid%3D14%26id%3D%7BUID%7D&id=6390371893031042785', 'http://s.uuidksinc.net/match/33/6390371893031042785', 'http://contextlab.ru/pixel/6390371893031042785', 'http://recreativ.ru/mtch/19/6390371893031042785', 'http://adlabs-sync.rutarget.ru/sync?lx_psid=6390371893031042785', 'http://sync-eu.exe.bid/image?source=adlabs&return_url=%2F%2Fstat.adlabs.ru%2Fmerge_gpsid%2F%3Fsid%3D38%26id%3D%7BUID%7D&id=6390371893031042785']}, {type: 'params', site: {"ch_dmn":"luxupcdnc.com","forensiq_percent":1.5},
+blocks:{"580833": {"type":"js_npm","ch_dmn":"luxupcdnc.com"}}}, {type: 'cfg', isMobile: 0}, {type: 'dbg', alg_id: 12}]);

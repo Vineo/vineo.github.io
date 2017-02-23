@@ -1,0 +1,90 @@
+.uSocial-Share{
+ padding: 10px 0px 10px 0px!important;
+ width: 100%!important;
+ display: inline-block!important;
+ text-align: center!important;
+}
+
+
+#uSocial {
+margin: 55px auto 20px auto;
+width: 276px;
+}
+
+#uSocial .uscl-bar.uscl-size32.uscl-round-rect .ico_uscl, #uSocial .uscl-bar.uscl-size32.uscl-round-rect .uscl-counter {
+border-radius: 0px!important;
+}
+
+#uSocial .uscl-bar.uscl-size32.uscl-eachCounter1.uscl-horizontal .uscl-item .ico_uscl, #uSocial .uscl-bar.uscl-size32.uscl-eachCounter1.uscl-top .uscl-item .ico_uscl {
+width: 60px!important;
+}
+
+#uSocial .uscl-bar.uscl-size32.uscl-eachCounter1.uscl-horizontal .uscl-item .ico_uscl .uscl-each-counter, #uSocial .uscl-bar.uscl-size32.uscl-eachCounter1.uscl-top .uscl-item .ico_uscl .uscl-each-counter {
+width: 30px!important;
+margin: 0px!important;
+}
+
+#uSocial .ico_uscl .uscl-each-counter {
+border-left: 0px solid!important;
+}
+
+.uscl-vk {
+box-shadow: 1px 0px #4d6987, 1px 1px #4d6987, 2px 1px #4d6987, 2px 2px #4d6987, 3px 2px #4d6987, 3px 3px #4d6987, 4px 3px #4d6987, 4px 4px #4d6987;
+}
+
+.uscl-twi{
+box-shadow: 1px 0px #0293cb, 1px 1px #0293cb, 2px 1px #0293cb, 2px 2px #0293cb, 3px 2px #0293cb, 3px 3px #0293cb, 4px 3px #0293cb, 4px 4px #0293cb; 
+} 
+
+.uscl-gPlus{
+box-shadow: 1px 0px #A5382B, 1px 1px #A5382B, 2px 1px #A5382B, 2px 2px #A5382B, 3px 2px #A5382B, 3px 3px #A5382B, 4px 3px #A5382B, 4px 4px #A5382B; 
+ 
+} 
+.uscl-fb{
+box-shadow: 1px 0px #354882, 1px 1px #354882, 2px 1px #354882, 2px 2px #354882, 3px 2px #354882, 3px 3px #354882, 4px 3px #354882, 4px 4px #354882; 
+}
+
+
+.com_moder {
+ background: #54ca99;
+ color: #fff;
+ line-height: 16px;
+ display: inline-block;
+ padding: 0 5px;
+ font-size: 12px;
+}
+
+.modal-walls{
+ font-size: 13px;
+ width: 500px; 
+ padding-top: 20px; 
+} 
+
+.modal-walls .walls-link{
+ display: block;
+ padding-top: 10px;
+}
+
+.modal-walls .more2{
+ width: 370px;
+ line-height: 30px;
+ margin-top: 10px;
+ background: #54ca99;
+ color: #fff !important;
+ text-decoration: none !important;
+ display: inline-block;
+ box-shadow: 1px 0px #50b38a, 1px 1px #50b38a, 2px 1px #50b38a, 2px 2px #50b38a;
+ font-size: 13px !important;
+ cursor: pointer;
+}
+
+#close-ns{
+ font-size: 13px;
+ background: none;
+ outline: none;
+ border: none;
+ color: #c1c1c1;
+ cursor: pointer;
+ display: block;
+ margin-top: 20px; 
+}
